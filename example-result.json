@@ -1,0 +1,47 @@
+{
+  "source_image": "Kauai.png",
+  "offline": true,
+  "outbound_connection_attempts": 0,
+  "load_and_inference_seconds": 6.37,
+  "response": {
+    "status": 200,
+    "message": "Success",
+    "geo_predictions": [
+      {
+        "coordinates": [
+          22.197973251342773,
+          -159.6219024658203
+        ],
+        "score": 0.0725468322634697
+      },
+      {
+        "coordinates": [
+          22.178503036499023,
+          -159.65005493164062
+        ],
+        "score": 0.07002383470535278
+      },
+      {
+        "coordinates": [
+          22.175880432128906,
+          -159.6542205810547
+        ],
+        "score": 0.06758575141429901
+      },
+      {
+        "coordinates": [
+          22.175119400024414,
+          -159.65589904785156
+        ],
+        "score": 0.06655862182378769
+      },
+      {
+        "coordinates": [
+          22.150224685668945,
+          -159.66355895996094
+        ],
+        "score": 0.052657827734947205
+      }
+    ]
+  }
+}
